@@ -1,30 +1,26 @@
 # Introduction
 By default, Chrome use the system proxy setting (IE proxy settings on Windows platform ),
-but sometime we want to set proxy *ONLY* for chrome, not the whole system. Chrome proxy 
-helper extension use Chrome native proxy API to set proxy, support  socks5, socks4, http 
-and https protocol and pac script, Fast And Simple.
+but sometime we want to set proxy *ONLY* for chrome, not the whole system. Websecuritas proxy 
+helper extension use Chrome native proxy API to set a Websecuritas proxy fast And Simple.
 
 # Features
-* support socks4, socks5, http, https proxy settings
-* support pac proxy settings
-* support bypass list
-* support online pac script
-* support customer proxy rules
+* support Websecuritas proxy servers
+* support customer bypass list
 * support proxy authentication
 * support extension settings synchronize
 
 # Install
 * Install the latest stable version on chrome web store by click [here](https://chrome.google.com/webstore/detail/proxy-helper/mnloefcpaepkpmhaoipjkpikbnkmbnic).
-* Install the unstable version by cloning the [Git](https://github.com/henices/Chrome-proxy-helper.git) repository:
+* Install the unstable version by cloning the [Git](https://github.com/EvanAngel/Websecuritas-proxy-helper) repository:
 
 ```
-    git clone https://github.com/henices/Chrome-proxy-helper.git
+    git clone https://github.com/EvanAngel/Websecuritas-proxy-helper
 ```
 
 # Document
 
-* [Help](https://github.com/henices/Chrome-proxy-helper/wiki)
-* [FAQ](https://github.com/henices/Chrome-proxy-helper/wiki/FAQ)
+* [Help](https://github.com/EvanAngel/Websecuritas-proxy-helper/wiki)
+* [FAQ](https://github.com/EvanAngel/Websecuritas-proxy-helper/wiki/FAQ)
 
 # LICENSE
 This program is free software: you can redistribute it and/or modify
