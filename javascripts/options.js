@@ -1,6 +1,6 @@
-// Chrome Proxy helper
-// by zhouzhenster@gmail.com
-// https://raw.github.com/henices/Chrome-proxy-helper/master/javascripts/options.js
+// Websecuritas Proxy helper
+// by astrzelecki@gmx.de
+// https://github.com/EvanAngel/Websecuritas-proxy-helper/blob/master/javascripts/options.js
 
 
 function loadProxyData() {

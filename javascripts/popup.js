@@ -1,6 +1,6 @@
-// Chrome Proxy helper
+// Websecuritas Proxy helper
 // popup.js
-// https://raw.github.com/henices/Chrome-proxy-helper/master/javascripts/popup.js
+// https://github.com/EvanAngel/Websecuritas-proxy-helper/blob/master/javascripts/popup.js
 
 /**
  * @fileoverview
